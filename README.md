@@ -9,8 +9,8 @@ Python code for my HIST 2029 Final Paper exploring how Convolutional Neural Netw
 
 To run: 
 
-Simply downloading this repository will allow you to view a pre-run jupyter notebook that includes all relevent outputs
-To run the notebook yourself you will need to 
+Simply downloading or viewing this repository will allow you to view a pre-run jupyter notebook that includes all relevent outputs
+To run the notebook yourself (note it will take a couple hours) you will need to 
 1. `python3 -m venv venv`
 2. `source venv/bin/activate`
 3. `pip install datasets torchvision matplotlib torch`
