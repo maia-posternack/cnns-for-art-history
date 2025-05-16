@@ -15,3 +15,5 @@ To run the notebook yourself (note it will take a couple hours) you will need to
 2. `source venv/bin/activate`
 3. `pip install datasets torchvision matplotlib torch`
 4. Choose this venv to be your kernel and run!
+
+Final paper is kindof fun :) Can be found [here](https://drive.google.com/file/d/1c8plCHkEIFv30ylFXS2iRjjYQ4Qb8z9C/view?usp=sharing)
